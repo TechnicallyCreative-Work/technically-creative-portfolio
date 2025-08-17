@@ -14,3 +14,7 @@ This index tracks assets and their documentation.
 
 ---
 **Rule:** Every asset should have a matching README in `/readmes/` and a line item here.
+
+## Music Tech
+- **Max patches:**
+  - `hello_sine.maxpat` — see `readmes/README_hello_sine.maxpat_v1.md`
